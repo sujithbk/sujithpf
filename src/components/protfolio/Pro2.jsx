@@ -7,7 +7,7 @@ function Pro2() {
     
 
     <div class="filter">
-        <button class="btn filter-btn active"><a id='frame1' href="https://github.com/sujithbk/uber.git">Uber</a></button>
+        <button class="btn filter-btn active"><a id='frame1' href=" https://sujithbk.github.io/web1-uber/">Uber</a></button>
         
     </div>
 
