@@ -18,7 +18,7 @@ function Pro2() {
                 <div className="project-thumbnail">
                     <img src={SuiImg1} className="close-btn" alt=""/>
                     <img src={SuiImg1}className="project-img" alt=""/>
-                    <span className="tags">#javascript</span>
+                    <span className="tags">#javascript #css</span>
                 </div>
 
             </div>
